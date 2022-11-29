@@ -62,6 +62,9 @@ Virtual try-on, ‘Attire Fit-in’, which would help people visualize how a par
   
   The results will be saved and will be shown using tkinter app.
   ```
+  Result:
+  ![concat03615_06802_00](https://user-images.githubusercontent.com/55358003/204631865-11bbfe7b-3054-4835-9030-98a9cf810e9b.jpg)
+
   
   ## Team
   1. Rishabh Balaiwar (Roll No: 18052100542, email :18052100542@ietlucknow.ac.in)
